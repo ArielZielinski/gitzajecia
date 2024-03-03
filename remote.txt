@@ -1,3 +1,5 @@
 This is a file to pull form the remote repository to the local repository. 
 
 Just like this
+
+Kolejna zmiana, która jest porzebna
